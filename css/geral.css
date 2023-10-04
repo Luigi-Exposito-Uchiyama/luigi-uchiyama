@@ -48,6 +48,10 @@ ul {
   color: var(--color-4);
 }
 
+.cor2 {
+  color: var(--color-5);
+}
+
 :root {
   --color-1: #212121;
   --color-2: #dedede;
